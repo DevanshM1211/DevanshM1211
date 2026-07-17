@@ -1,28 +1,28 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:312e81&height=220&section=header&text=Devansh%20Mehrotra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Product+Focused+Builder;Cloud+%26+Automation+Explorer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a8a,100:2563eb&height=220&section=header&text=Devansh%20Mehrotra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Product+Focused+Builder;Cloud+%26+Automation+Explorer" />
 <br/>
-<img src="https://img.shields.io/badge/University%20of%20Exeter-Business%20Analytics%20%7C%20Industrial%20Experience-6366F1?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Applied%20AI-Minor%20%7C%20Engineering%20Focus-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/First%20Class-Academic%20Standing-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/United%20Kingdom-Developer-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Engineering-1E40AF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Engineering-1E3A8A?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20%26%20Serverless-Infrastructure-172554?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/United%20Kingdom-Developer-0A192F?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <br/>
 <a href="https://devanshm.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/devanshmehrotra12">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:hello@devanshm.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-1E40AF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/DevanshM1211">
 <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=DevanshM1211&style=for-the-badge&color=7c3aed"/>
-<img src="https://img.shields.io/github/followers/DevanshM1211?style=for-the-badge&color=6366f1"/>
-<img src="https://img.shields.io/github/stars/DevanshM1211?style=for-the-badge&color=a855f7"/>
+<img src="https://komarev.com/ghpvc/?username=DevanshM1211&style=for-the-badge&color=1e40af"/>
+<img src="https://img.shields.io/github/followers/DevanshM1211?style=for-the-badge&color=1e3a8a"/>
+<img src="https://img.shields.io/github/stars/DevanshM1211?style=for-the-badge&color=2563eb"/>
 </div>
 ---
  
@@ -32,22 +32,14 @@ I am a software engineering focused developer who builds complete, production-gr
  
 My interests span **Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Engineering and Product Development**. I enjoy transforming complex problems into reliable software systems through strong engineering principles, automation and data-driven decision making.
  
-I approach development with a **product engineering mindset** — combining technical excellence, user experience, business impact and long-term scalability. Every project below started as a real operational problem, was scoped against user value, and was shipped to real users rather than left as a prototype.
+I approach development with a **product engineering mindset** — combining technical excellence, user experience and long-term scalability. Every project below started as a real operational problem, was scoped against user value, and was shipped to real users rather than left as a prototype.
  
 Currently focused on:
  
 - Building AI-powered applications, multi-agent orchestration layers and intelligent automation systems
 - Developing modern full-stack platforms with Supabase, Postgres, serverless functions and offline-first PWAs
 - Exploring machine learning engineering, retrieval architectures and cloud infrastructure
-- Creating impactful open-source projects and commercially delivered software
-### Open To
- 
-- 2026/27 Placement Year — Software & AI Engineering
-- Software Engineering Internships
-- AI / ML Engineering Opportunities
-- Open Source Collaboration
-- Product Engineering Projects
-- Research & Innovation Opportunities
+- Creating impactful open-source projects and production software
 ---
  
 # 🛠️ Tech Stack
@@ -176,7 +168,7 @@ A production trading platform delivered commercially for the Inter-European Asse
 | Impact | Commercially delivered, sponsor-funded engagement |
 | Repository | Private, available on request |
  
-A genuine multi-tenant concurrency problem: 16 teams trading simultaneously against shared market state with ledger correctness as a hard requirement. Scoped, priced and delivered against a client relationship.
+A genuine multi-tenant concurrency problem: 16 teams trading simultaneously against shared market state with ledger correctness as a hard requirement.
  
 </details>
 <br/>
@@ -197,108 +189,6 @@ A cross-device productivity platform integrating calendar, tasks, habits, focus 
 The interesting constraint was the university timetable feed: an iCal endpoint unreachable from the browser that changes without notice. A serverless proxy runs change-detection against the previous snapshot, surfacing changes as notifications rather than as a missed lecture.
  
 </details>
----
- 
-# 💼 Experience
- 
-## Junior Consultant  
-**Exe Consulting**  
-**2025 - Present**
- 
-Delivering analytics and technical consulting engagements for external clients, translating ambiguous business questions into scoped, evidenced deliverables.
- 
-### Scope Of Work
- 
-- Scoped client problems into defined analytical workstreams with measurable outcomes
-- Built data models and analysis pipelines supporting client recommendations
-- Presented findings to non-technical stakeholders with an emphasis on decision-readiness
-- Operated to commercial timelines and quality expectations
-**Skills:**  
-`Consulting` `Data Analytics` `Python` `SQL` `Stakeholder Management` `Business Intelligence`
- 
----
- 
-## Founder's Associate  
-**Cyber Security Stack**  
-**2025 - Present**
- 
-Working directly with founder-level leadership at an early-stage security company across product, operations and go-to-market.
- 
-### Scope Of Work
- 
-- Supported product direction and technical evaluation in a security-first domain
-- Built internal tooling and operational process where none previously existed
-- Contributed to commercial and positioning workstreams
-- Operated across engineering and business boundaries simultaneously
-**Skills:**  
-`Cybersecurity` `Startups` `Product Strategy` `Operations` `Automation`
- 
----
- 
-## Operations & Analytics Representative  
-**University of Exeter Students' Guild**  
-**2025 - Present**
- 
-Owning analytics and operational reporting for a students' union serving the full university population.
- 
-### Scope Of Work
- 
-- Built reporting surfaces informing operational and engagement decisions
-- Analysed participation and operational data across Guild activity
-- Automated recurring reporting workflows to remove manual overhead
-- Collaborated with diverse teams and stakeholders
-**Skills:**  
-`Analytics` `Reporting` `Automation` `SQL` `Operations` `Communication`
- 
----
- 
-## Marketing & Operations  
-**Purista Foods**  
-**Prior**
- 
-Led marketing and operations for a growing food business, later returning as an engineer to build its internal operations platform.
- 
-### Scope Of Work
- 
-- Drove 45% growth in engagement through content and campaign strategy
-- Owned operational process across ordering and fulfilment
-- Engineered the company's order management, invoicing and customer portal system
-- Delivered a payment-provider OAuth integration and an automated weekly digest
-**Skills:**  
-`Marketing` `Operations` `Full Stack Development` `Supabase` `Entrepreneurship`
- 
----
- 
-# 🏆 Achievements
- 
-<div align="center">
-| Recognition | Details |
-|---|---|
-| First Class Standing | 71.2% weighted average across 120 credits — BSc Business Analytics with Industrial Experience |
-| Student Leadership | President of the Google Developer Student Club and Vice-President of the South Asian Society |
-| Sporting Leadership | Cricket Captain — squad leadership, selection and match strategy |
-| Commercial Delivery | Shipped a sponsor-funded trading platform serving ~150 users across 16 teams |
-| Content Creation | 150,000+ views across YouTube with 30+ brand collaborations delivered |
-| Growth Impact | 45% engagement growth driven through owned marketing and operations strategy |
-| Technology Projects | 10+ independently designed, built and deployed AI-backed products in production use |
- 
-</div>
----
- 
-# 📜 Certifications
- 
-## AWS
- 
-<img src="https://img.shields.io/badge/AWS-EDIT%3A%20Add%20Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-## Oracle
- 
-<img src="https://img.shields.io/badge/Oracle-EDIT%3A%20Add%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-## NPTEL
- 
-<img src="https://img.shields.io/badge/NPTEL-EDIT%3A%20Add%20Certification-7C3AED?style=for-the-badge"/>
-## Cisco
- 
-<img src="https://img.shields.io/badge/Cisco-EDIT%3A%20Add%20Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 ---
  
 # 💻 Coding Profiles
@@ -322,23 +212,23 @@ Led marketing and operations for a growing food business, later returning as an 
 # 📈 GitHub Analytics
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DevanshM1211&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=DevanshM1211&theme=midnight-purple&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshM1211&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevanshM1211&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0A192F&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&ring_color=60A5FA"/>
+<img src="https://streak-stats.demolab.com?user=DevanshM1211&hide_border=true&background=0A192F&stroke=1E3A8A&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshM1211&layout=compact&langs_count=10&hide_border=true&bg_color=0A192F&title_color=60A5FA&text_color=C9D1D9"/>
 </div>
 ---
  
 # 🏅 GitHub Trophies
  
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevanshM1211&theme=algolia&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevanshM1211&theme=algolia&no-frame=true&no-bg=true&row=1"/>
 </div>
 ---
  
 # 📊 Contribution Activity
  
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshM1211&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshM1211&bg_color=0A192F&color=60A5FA&line=3B82F6&point=93C5FD&area_color=1E3A8A&area=true&hide_border=true"/>
 </div>
 ---
  
@@ -362,19 +252,13 @@ Building:
   - Atlas: bridging the browser HUD to the multi-agent orchestrator
   - ImSoCooked: behavioural insights layer over the cook-event store
   - Quorum: cross-society clash detection and persistent member profiles
-  - IEAM: options valuation module pending client sign-off
+  - IEAM: options valuation module pending sign-off
  
 Exploring:
   - Agentic Tool-Use Patterns & Hand-Off Contracts
   - Offline-First Sync & Conflict Resolution
   - Privacy-Preserving Personal Data Architectures
   - Developer Infrastructure
- 
-Open To:
-  - 2026/27 Placement Year
-  - Software Engineering Opportunities
-  - AI / ML Engineering Roles
-  - Open Source Projects
 ```
  
 ---
@@ -383,16 +267,16 @@ Open To:
  
 <div align="center">
 <a href="mailto:hello@devanshm.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-1E40AF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/devanshmehrotra12">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/DevanshM1211">
 <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://devanshm.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </div>
 ---
@@ -400,6 +284,5 @@ Open To:
 <div align="center">
 **Software is only finished when someone is using it.**
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:7c3aed,100:4f46e5&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0a192f&height=150&section=footer" width="100%"/>
 </div>
- 
