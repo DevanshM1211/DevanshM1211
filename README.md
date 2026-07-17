@@ -1,11 +1,11 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a8a,100:2563eb&height=220&section=header&text=Devansh%20Mehrotra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Product+Focused+Builder;Cloud+%26+Automation+Explorer" />
+div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a8a,100:2563eb&height=220&section=header&text=Devansh%20Mehrotra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vibecoder%20%7C%20I%20ship%20software%20fast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Vibecoder;Idea+to+production+in+a+single+session;10%2B+products+shipped+and+running;AI-native+development+workflow;Taste+is+the+bottleneck%2C+not+syntax" />
 <br/>
-<img src="https://img.shields.io/badge/Full%20Stack-Engineering-1E40AF?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Engineering-1E3A8A?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20%26%20Serverless-Infrastructure-172554?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/United%20Kingdom-Developer-0A192F?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vibecoder-Ship%20First-1E40AF?style=for-the-badge&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI--Native-Development-1E3A8A?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Single--File-Architecture-172554?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/10%2B%20Products-In%20Production-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
 <br/>
 <a href="https://devanshm.com">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -26,20 +26,47 @@
 </div>
 ---
  
-# 👨‍💻 About Me
+# ⚡ About Me
  
-I am a software engineering focused developer who builds complete, production-grade systems end to end — from data model and API surface through to shipped interface.
+I am a vibecoder. I build software at the speed of the idea — no scaffolding rituals, no six-week discovery phase, no framework debate. I find a real problem, design the system in my head, and ship it to production the same day.
  
-My interests span **Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Engineering and Product Development**. I enjoy transforming complex problems into reliable software systems through strong engineering principles, automation and data-driven decision making.
+The bottleneck in software was never typing. It was knowing what to build, deciding what to leave out, and having the taste to tell a good architecture from a plausible one. AI collapsed the cost of the first draft to near zero — so the whole game moved to judgement, and that is where I spend my attention.
  
-I approach development with a **product engineering mindset** — combining technical excellence, user experience and long-term scalability. Every project below started as a real operational problem, was scoped against user value, and was shipped to real users rather than left as a prototype.
+**How that plays out in practice:**
  
-Currently focused on:
+- **Ship first, refactor when it earns it.** Every project here started because I personally needed it. If nobody uses it, it was never worth architecting properly.
+- **Single-file architecture by default.** One HTML file, CDN imports, localStorage, deployed to Vercel. No build step, no dependency graph, no bundler config. Boring to deploy, impossible to break.
+- **AI as leverage, not autopilot.** I direct the build, own the architecture, and review every line that matters — schema design, auth boundaries, state, security. AI writes the parts that were always going to be boilerplate.
+- **Production or it doesn't count.** Not tutorials, not clones, not `todo-app-v3`. Real users, real data, real deployments, real bugs at 2am.
+**Volume is the strategy.** Ten shipped products teach you more than one perfect one. Each build below was scoped in a session, shipped in a session, and then survived contact with actual use.
  
-- Building AI-powered applications, multi-agent orchestration layers and intelligent automation systems
-- Developing modern full-stack platforms with Supabase, Postgres, serverless functions and offline-first PWAs
-- Exploring machine learning engineering, retrieval architectures and cloud infrastructure
-- Creating impactful open-source projects and production software
+---
+ 
+# 🧬 How I Build
+ 
+```yaml
+Loop:
+  1. Feel a problem personally
+  2. Scope it in one conversation
+  3. Build it in one session
+  4. Deploy before losing interest
+  5. Use it daily, or delete it
+ 
+Defaults:
+  Architecture:   single-file HTML or React via CDN
+  Persistence:    localStorage first, Supabase when sync matters
+  Auth:           Supabase GoTrue + row-level security
+  AI:             Anthropic API behind a Vercel serverless proxy
+  Deploy:         commit to GitHub, live in 30 seconds
+  Secrets:        environment variables, never the client
+ 
+Non-Negotiable:
+  - No API key ever reaches the browser
+  - Row-level security from the first table, not bolted on later
+  - Backup and restore in v1, not v2
+  - If deployment takes more than 30 seconds, it is wrong
+```
+ 
 ---
  
 # 🛠️ Tech Stack
@@ -64,23 +91,33 @@ Currently focused on:
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vercel,aws,docker,git,github,githubactions,linux,vscode&theme=dark"/>
 </div>
+## AI Toolchain
+ 
+<div align="center">
+<img src="https://img.shields.io/badge/Claude-Primary%20Pair-1E40AF?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic%20API-Production-1E3A8A?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-Tool%20Integration-172554?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-Editor-0A192F?style=for-the-badge&logo=cursor&logoColor=white"/>
+</div>
 ---
  
-# 🤖 AI / Machine Learning Expertise
+# 🤖 AI Engineering Depth
+ 
+Vibecoding gets the thing shipped. This is the part that keeps it working.
  
 | Domain | Proficiency | Details |
 |---|---|---|
-| Generative AI | Advanced | LLM application engineering across 10+ shipped products, structured outputs, system-prompt design, token and cost budgeting |
-| Artificial Intelligence | Advanced | Multi-agent routing layers, intent classification, hand-off contracts, intelligent workflow automation |
-| Machine Learning | Advanced | Model development, leave-one-out calibration, skew correction, feature engineering, transparency surfacing |
-| Data Analytics | Advanced | Time-series behavioural insight generation, 200+ merchant categorisation rules, periodisation modelling from biometric data |
-| Natural Language Processing | Advanced | TF-IDF vectorisation, cosine-similarity recall, fuzzy entity resolution across a 2,623-record corpus |
+| Generative AI | Advanced | LLM application engineering across 10+ shipped products, structured JSON outputs, system-prompt design, token and cost budgeting |
+| Agent Architecture | Advanced | Multi-agent routing layers, intent classification, hand-off contracts, approval-gated automation |
+| Applied ML | Advanced | Leave-one-out calibration, skew correction, feature engineering, confidence surfacing so predictions stay auditable |
+| Retrieval & NLP | Advanced | TF-IDF vectorisation, cosine-similarity recall, fuzzy entity resolution across a 2,623-record corpus |
+| Data Engineering | Advanced | Time-series behavioural insight generation, 200+ merchant categorisation rules, append-only event modelling |
 | Deep Learning | Intermediate | Neural networks and modern ML architectures |
 | Computer Vision | Intermediate | Receipt parsing and OCR-driven data capture pipelines |
  
 ---
  
-# 🚀 Featured Projects
+# 🚀 Shipped
  
 <details>
 <summary><b>🧠 Atlas — Local-First Personal AI Operating System</b></summary>
@@ -168,7 +205,7 @@ A production trading platform delivered commercially for the Inter-European Asse
 | Impact | Commercially delivered, sponsor-funded engagement |
 | Repository | Private, available on request |
  
-A genuine multi-tenant concurrency problem: 16 teams trading simultaneously against shared market state with ledger correctness as a hard requirement.
+A genuine multi-tenant concurrency problem: 16 teams trading simultaneously against shared market state with ledger correctness as a hard requirement. Vibecoding got it demoed in days; the ledger got the slow, careful treatment it deserved.
  
 </details>
 <br/>
@@ -258,7 +295,7 @@ Exploring:
   - Agentic Tool-Use Patterns & Hand-Off Contracts
   - Offline-First Sync & Conflict Resolution
   - Privacy-Preserving Personal Data Architectures
-  - Developer Infrastructure
+  - How Far Single-File Architecture Actually Scales
 ```
  
 ---
@@ -282,7 +319,8 @@ Exploring:
 ---
  
 <div align="center">
-**Software is only finished when someone is using it.**
+**Anyone can start a project. Shipping is the whole skill.**
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0a192f&height=150&section=footer" width="100%"/>
 </div>
+ 
