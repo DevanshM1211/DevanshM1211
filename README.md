@@ -1,4 +1,3 @@
-div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a8a,100:2563eb&height=220&section=header&text=Devansh%20Mehrotra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vibecoder%20%7C%20I%20ship%20software%20fast&descAlignY=58&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Vibecoder;Idea+to+production+in+a+single+session;10%2B+products+shipped+and+running;AI-native+development+workflow;Taste+is+the+bottleneck%2C+not+syntax" />
 <br/>
